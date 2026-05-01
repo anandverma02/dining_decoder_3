@@ -1,7 +1,7 @@
 import subodhPhoto from '../assets/subodh_sir.jpg';
 import anandPhoto from '../assets/anand.jpg';
 import krishnaPhoto from '../assets/krishna.jpg';
-import harshPhoto from '../assets/subodh_sir.jpg';
+import harshPhoto from '../assets/harsh.jpg';
 import pratyushPhoto from '../assets/pratyush.jpg';
 
 const TEAM = [
@@ -38,7 +38,7 @@ const TEAM = [
     role: "Student — data & analytics",
     name: "Harsh Kumar",
     photo:
-      pratyushPhoto,
+      harshPhoto,
     quote:
       "Waste drops when predictions are boring and reliable. I cared about clean data models so skips, attendance, and ratings could feed the admin dashboard without surprises.",
     contribution:
